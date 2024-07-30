@@ -1,0 +1,4 @@
+# library required for interaction with database
+mysql-connector-python
+pandas
+
