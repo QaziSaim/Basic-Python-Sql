@@ -1,4 +1,6 @@
 # library required for interaction with database
 mysql-connector-python
 pandas
-
+py-postgresql
+psycopg2
+postgres
